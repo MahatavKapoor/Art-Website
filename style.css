@@ -128,3 +128,8 @@ footer h1{
     margin-top: 7rem;
   }
 }
+@media (max-width: 700px) {
+  .carousel-item {
+    height: 25rem;
+  }
+}
